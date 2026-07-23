@@ -203,3 +203,33 @@ form button:hover{
     }
 
 }
+.active{
+    color:#ffd700 !important;
+    font-weight:bold;
+}
+/* Contact Section */
+
+.contact-info{
+    margin-bottom:30px;
+    text-align:center;
+    font-size:18px;
+    line-height:2;
+}
+
+.contact-info p{
+    margin:10px 0;
+}
+
+.contact-info strong{
+    color:#0a66c2;
+}
+
+/* About Section */
+
+#about p{
+    max-width:900px;
+    margin:auto;
+    text-align:center;
+    font-size:18px;
+    line-height:1.8;
+}
